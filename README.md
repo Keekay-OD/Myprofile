@@ -3,9 +3,9 @@
 
 ## Preview
 
-[![Creative Preview](https:/btcinvestnow.com)
 
-**[View Live Preview](https:/btcinvestnow.com/)**
+
+**[View Live Preview] https:/www.btcinvestnow.com/
 
 ## Status
 
