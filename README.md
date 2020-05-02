@@ -6,6 +6,9 @@ Clean, minimalistic and responsive portfolio theme for a photographer powered by
 ## Live Demo
 https://omardtech.github.io/Myprofile/
 
+![Photography Portfolio Theme](./screenshot1.png "Photography Portfolio Theme")
+
+
 
 This webpage uses bootstrap and html/css and JavaScript 
 
