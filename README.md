@@ -1,13 +1,22 @@
+## My Personal Portfolio
+
+Clean, minimalistic and responsive portfolio theme for a photographer powered by Bootstrap 4 and Ajax.
 
 
+## Live Demo
+https://omardtech.github.io/Myprofile/
 
-## Preview
-
-
-
-**[View Live Preview] https:/www.btcinvestnow.com/
 
 This webpage uses bootstrap and html/css and JavaScript 
+
+## Powered by
+
+- [Bootstrap 4](http://v4-alpha.getbootstrap.com/)
+- [jQuery](https://jquery.com/)
+- [Font Awesome](http://fontawesome.io/)
+- [Ajax](https://api.jquery.com/category/ajax/)
+
+
 
 ## Status
 
